@@ -7,3 +7,5 @@
 ![git screenshot showing successful merge conflict resolution for activity 3](screenshot3.png)
 
 ![git log showing commits for activity 4](screenshot4.png)
+
+![git screenshot showing rebase for activity 5](screenshot5.png)
